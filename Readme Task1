@@ -1,12 +1,1 @@
-Stock Prediction  
-Take stock price of any company you want and predicts its price by using LSTM.  
-  
-Now Long Short-Term Memory (LSTM) is a type of Recurrent Neural Network (RNN)  
-LSTM networks are well-suited for time-series data, like stock prices, because they can capture temporal dependencies and patterns.  
-The goal is to use past stock prices to predict future ones.  
-For this task, we use Apple's (AAPL) stock data from Yahoo Finance from 2010 to 2023.  
 
-For more accurate predictions, we should:  
-Use a more complex model architecture.  
-Tune hyperparameters like batch size, epochs, and the number of LSTM units.  
-Incorporate additional features such as trading volume, other technical indicators, or external factors like economic data.  
