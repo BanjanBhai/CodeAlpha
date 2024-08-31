@@ -1,1 +1,8 @@
+A/B Testing Analysis  
 
+Conduct an A/B testing analysis to evaluate the impact of a change or intervention. Analyze the results using statistical techniques and draw actionable insights.  
+
+In this task I have simulated and analyzed data foe an A/B test.  
+First I siimulate some arbitrary click data for a control and experimental group.  
+Then I run a 2=sample Z-Test to caslculate statistical significant difference.  
+Finally I analyse the result.  
